@@ -131,7 +131,14 @@ $\small\color{#6b73db}{\textsf{Thank you for taking your time, and spending some
 $\small\color{#6b73db}{\textsf{pronouns.cc and strawpage, have a wonderful day/night.}}$
 
 
-![tumblr_f7c0d0f8e5d392a6d3f352c4bd2769dd_677c95c8_500](https://github.com/user-attachments/assets/d79d9ce8-ce1b-42dd-81e3-c7b453adc7f6)
+
+
+
+OUTRO IMAGE
+
+
+
+
 
 [Guns.lol](https://guns.lol/w1lz0/)          ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ              [strawpage](https://mobiusmmobius.straw.page/) 
 
