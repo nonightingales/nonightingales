@@ -15,7 +15,9 @@
 
 
 
-IMAGE
+
+
+![tumblr_0a47b979b349a3d60df01512275b2bd7_35fd4766_400](https://github.com/user-attachments/assets/65626b1b-3c0f-44ab-b609-d355405b3a05)
 
 
 
@@ -24,7 +26,7 @@ IMAGE
 
 
 
-$\Large\color{#632230}{\textsf{"-insert text"}}$
+$\Large\color{#632230}{\textsf{"Oh- look at you! You're gorgeous-!"}}$
 
 $\small\color{#6b73db}{\textsf{HELLOOO!!!}}$
 
@@ -39,14 +41,15 @@ $\small\color{#decda0}{\textsf{My birthday is January 26th, any birthday wishes 
 
 
 
-IMAGE
+![tumblr_d6e209ac836962e002c218d2d623ae66_d90adeff_400](https://github.com/user-attachments/assets/0cc1e298-7baa-4e4f-ae72-251926580f5e)
 
 
 
 
 
 
-$\Large\color{#f7cd59}{\textsf{"Insert text 2-"}}$
+
+$\Large\color{#f7cd59}{\textsf{"-That was very kind of you crowley! You saved that young woman."}}$
 
 
 
@@ -69,7 +72,7 @@ $\small\color{#6b73db}{\textsf{I try not to be hostile, but at time I am with do
 
 
 
-IMAGE
+![tumblr_667b7438f7e2ed717ebc8d0934f049de_fa182a33_540](https://github.com/user-attachments/assets/5c557b1c-b300-4b6f-bcea-ff7dc89a4be0)
 
 
 
@@ -79,7 +82,8 @@ IMAGE
 
 
 
-$\Large\color{#382275}{\textsf{"insert text 3"}}$
+
+$\Large\color{#382275}{\textsf{"To the world! -- To the world..."}}$
 
 
 
@@ -104,7 +108,7 @@ $\small\color{#6b73db}{\textsf{I dont associate with most people I know on ponyt
 
 
 
-IMAGE
+![tumblr_b151885cbf0afbd68cca799cd448f395_83ce9941_250](https://github.com/user-attachments/assets/8d6d840e-38ff-49a1-98b4-77f10668eda2)
 
 
 
@@ -112,7 +116,9 @@ IMAGE
 
 
 
-$\Large\color{#632230}{\textsf{"insert text 4"}}$
+
+
+$\Large\color{#632230}{\textsf{""-Oh Crowley.... Nothing lasts forever...""}}$
 
 
 
@@ -134,7 +140,9 @@ $\small\color{#6b73db}{\textsf{pronouns.cc and strawpage, have a wonderful day/n
 
 
 
-OUTRO IMAGE
+
+![tumblr_511c42cefac359b20f29e58b66023b0c_f956ad00_400](https://github.com/user-attachments/assets/cbde6f20-b31c-4988-9ea9-2a8b3d96f2b4)
+
 
 
 
