@@ -26,15 +26,15 @@
 
 
 
-$\Large\color{#632230}{\textsf{"Oh- look at you! You're gorgeous-!"}}$
+$\Large\color{#c7291e}{\textsf{"Oh- look at you! You're gorgeous-!"}}$
 
 $\small\color{#6b73db}{\textsf{HELLOOO!!!}}$
 
-$\small\color{#6b73db}{\textsf{my name is will, or the doctor, mainly varying with what kin of my own I am presenting myself with.}}$
+$\small\color{#6b73db}{\textsf{my name is will, or the doctor, or also aziraphale! mainly varying with what kin of my own I am presenting myself with.}}$
 
 $\small\color{#6b73db}{\textsf{My pronouns consistantly stay masculine, any feminine terms will be called out, and I will state that I am uncomfortable.}}$
 
-$\small\color{#decda0}{\textsf{My birthday is January 26th, any birthday wishes are appreciated even if I dont celebrate it! :p}}$
+$\small\color{#7d6f5c}{\textsf{My birthday is January 26th, any birthday wishes are appreciated even if I dont celebrate it! :p}}$
 
 
 
@@ -49,7 +49,7 @@ $\small\color{#decda0}{\textsf{My birthday is January 26th, any birthday wishes 
 
 
 
-$\Large\color{#f7cd59}{\textsf{"-That was very kind of you crowley! You saved that young woman."}}$
+$\Large\color{#decda0}{\textsf{"-That was very kind of you crowley! You saved that young woman."}}$
 
 
 
@@ -83,7 +83,7 @@ $\small\color{#6b73db}{\textsf{I try not to be hostile, but at time I am with do
 
 
 
-$\Large\color{#382275}{\textsf{"To the world! -- To the world..."}}$
+$\Large\color{#decda0}{\textsf{"To the world! -- To the world..."}}$
 
 
 
@@ -118,7 +118,7 @@ $\small\color{#6b73db}{\textsf{I dont associate with most people I know on ponyt
 
 
 
-$\Large\color{#632230}{\textsf{""-Oh Crowley.... Nothing lasts forever...""}}$
+$\Large\color{#decda0}{\textsf{""-Oh Crowley.... Nothing lasts forever...""}}$
 
 
 
