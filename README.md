@@ -1,4 +1,4 @@
-## # -neridest or coolest guy you'll ever meet-!
+## # -nerdiest or coolest guy you'll ever meet-!
 
 
 <p align="center">
