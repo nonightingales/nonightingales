@@ -118,7 +118,7 @@ $\small\color{#6b73db}{\textsf{I dont associate with most people I know on ponyt
 
 
 
-$\Large\color{#decda0}{\textsf{""-Oh Crowley.... Nothing lasts forever...""}}$
+$\Large\color{#decda0}{\textsf{"-Oh Crowley.... Nothing lasts forever..."}}$
 
 
 
